@@ -16,6 +16,9 @@ python crack.py
 cd ZIP-FILE-CRACKER
 python crack.py
 ```
+<h3>Visitors :</h3>
+<img src="https://profile-counter.glitch.me/ShTasrif/count.svg" alt="Visitors">
+
 <div align="center">
 
 <h3>━━━━ Connect with me ━━━━</h3>
@@ -26,4 +29,5 @@ python crack.py
 <a href="https://instagram.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akxvau" height="30" width="40" /></a>
 
 </div>
+
 
